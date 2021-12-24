@@ -6,9 +6,9 @@ This app focuses on the functionalities of the website (sign up, login, posts, m
 
 STEPS OF RUNNING THE WEB APP
 
-1) Have nodejs installed
+1)Have nodejs installed
 
-2) Open a terminal and go to the directory that you have MyLinkedIn 
+2)Open a terminal and go to the directory that you have MyLinkedIn 
 
 3)cd MyLinkedIn
 
