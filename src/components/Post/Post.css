@@ -1,0 +1,59 @@
+.post {
+  background-color: white;
+  padding: 15px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+.post_header {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.post_info {
+  margin-left: 10px;
+}
+
+.post_info > p {
+  font-size: 20px;
+  color: grey;
+}
+
+.post_body {
+  overflow-wrap: anywhere;
+}
+
+.post_body > h2 {
+  font-size: 15px;
+}
+
+.post_buttons {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#number_of_likes {
+  position: relative;
+  right: 210px;
+  top: 50px;
+}
+
+#post_image {
+  height: 20%;
+}
+
+#comments {
+  text-decoration: none;
+}
+
+#LikeButton {
+  cursor: pointer;
+  font-size: 50px;
+}
+
+#UnlikeButton {
+  cursor: pointer;
+  font-size: 50px;
+  color: blue;
+}

@@ -1,0 +1,17 @@
+.scroll-box {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+
+.scroll-box__wrapper {
+  width: 100%;
+  height: 100%;
+  overflow-y: hidden;
+  overflow-x: scroll;
+}
+
+.scroll-box__container {
+  height: 100%;
+  display: inline-flex;
+}

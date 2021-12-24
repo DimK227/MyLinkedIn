@@ -1,0 +1,15 @@
+#listOfFirends {
+  position: absolute;
+  left: 50px;
+}
+
+.friend {
+  text-decoration: none;
+}
+
+#search {
+  position: absolute;
+  top: 150px;
+  left: 800px;
+  /* right: 50px; */
+}

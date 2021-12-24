@@ -1,0 +1,45 @@
+#id {
+  visibility: hidden;
+}
+
+#skills {
+  position: absolute;
+  left: 700px;
+  top: 100px;
+}
+
+#skills_btn {
+  position: absolute;
+  left: 700px;
+  top: 350px;
+}
+
+#education {
+  position: absolute;
+  left: 700px;
+  top: 400px;
+}
+
+#education_btn {
+  position: absolute;
+  left: 700px;
+  top: 650px;
+}
+
+#experience {
+  position: absolute;
+  left: 700px;
+  top: 700px;
+}
+
+#experience_btn {
+  position: absolute;
+  left: 700px;
+  top: 950px;
+}
+
+#info_btn {
+  position: absolute;
+  left: 1300px;
+  top: 550px;
+}

@@ -1,0 +1,23 @@
+#friend_request {
+  position: relative;
+  right: 750px;
+  top: 130px;
+}
+
+#request_title {
+  position: absolute;
+  right: 1500px;
+  top: 100px;
+}
+
+#reaction_title {
+  position: absolute;
+  right: 600px;
+  top: 100px;
+}
+
+.notification {
+  position: absolute;
+  right: 700px;
+  top: 170px;
+}

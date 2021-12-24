@@ -1,0 +1,28 @@
+.adverisements_from_others {
+  position: relative;
+  right: 530px;
+  top: 100px;
+}
+
+#myadvertisement {
+  position: relative;
+  left: 600px;
+}
+
+#advertisement_button {
+  position: relative;
+  left: 390px;
+  top: 70px;
+}
+
+.Applications {
+  position: relative;
+  top: 100px;
+}
+
+#ad_name {
+  position: relative;
+  left: 1000px;
+  top: 30px;
+  width: 300px;
+}

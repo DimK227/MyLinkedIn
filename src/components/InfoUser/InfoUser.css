@@ -1,0 +1,42 @@
+#listOfFirends {
+  position: absolute;
+  top: 10%;
+}
+
+#FriendOption {
+  position: relative;
+  left: 560px;
+  top: 70px;
+  color: green;
+}
+
+#messageType {
+  position: relative;
+  left: 600px;
+  top: 100px;
+}
+
+#message {
+  position: relative;
+  left: 600px;
+  top: 150px;
+  background-color: lightcyan;
+}
+
+#education1 {
+  position: relative;
+  left: -28px;
+  top: 250px;
+}
+
+#experience1 {
+  position: relative;
+  left: -28px;
+  top: 280px;
+}
+
+#messagebutton {
+  position: relative;
+  left: 600px;
+  top: 180px;
+}
