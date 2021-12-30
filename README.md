@@ -26,3 +26,5 @@ STEPS OF RUNNING THE WEB APP
 
 10)Open a browser and go to http://localhost:3000/
 
+*Refresh to see the likes
+
